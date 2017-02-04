@@ -1,5 +1,5 @@
 #**FTP** simple protocol build using **java-network**
-            ##With GUI
+##With GUI
 
 
 using it use to send text files to server
